@@ -340,6 +340,7 @@ If the same information must appear in multiple sections: give it fully in the m
 ### **British English (UK):**
 
 * British spelling: "colour", "favourite", "licence" (noun), "practise" (verb)
+* For UK market always use fractional odds unless brief specifies decimal
 
 ---
 
